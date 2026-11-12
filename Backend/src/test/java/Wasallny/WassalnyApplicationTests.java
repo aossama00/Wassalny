@@ -1,4 +1,4 @@
-package Wasallny.demo;
+package Wasallny;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
